@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#d7b57b"/><stop offset="1" stop-color="#8a6b3f"/></linearGradient></defs>
+<rect width="600" height="600" rx="30" fill="#f7f8fa"/>
+<circle cx="300" cy="245" r="125" fill="#172b4d"/>
+<circle cx="300" cy="215" r="62" fill="#e7c7a1"/>
+<path d="M210 215c10-70 170-82 180 0-35-30-82-45-180 0z" fill="#17202a"/>
+<path d="M175 470c20-105 75-150 125-150s105 45 125 150z" fill="url(#g)"/>
+<circle cx="275" cy="220" r="6" fill="#17202a"/><circle cx="325" cy="220" r="6" fill="#17202a"/>
+<path d="M275 255q25 18 50 0" fill="none" stroke="#17202a" stroke-width="5" stroke-linecap="round"/>
+<text x="300" y="535" text-anchor="middle" font-family="Montserrat,Arial" font-size="25" fill="#172b4d">TU PERFIL</text>
+</svg>

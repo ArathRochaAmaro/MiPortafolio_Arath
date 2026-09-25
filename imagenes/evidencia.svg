@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<rect width="900" height="520" fill="#f1f3f6"/>
+<rect x="85" y="70" width="730" height="380" rx="18" fill="#fff" stroke="#dfe3e8"/>
+<rect x="85" y="70" width="730" height="58" rx="18" fill="#172b4d"/>
+<circle cx="120" cy="99" r="7" fill="#d7b57b"/><circle cx="145" cy="99" r="7" fill="#d7b57b"/><circle cx="170" cy="99" r="7" fill="#d7b57b"/>
+<rect x="140" y="165" width="250" height="24" rx="8" fill="#d7b57b"/>
+<rect x="140" y="210" width="570" height="13" rx="6" fill="#e5e7eb"/>
+<rect x="140" y="238" width="490" height="13" rx="6" fill="#e5e7eb"/>
+<rect x="140" y="285" width="160" height="100" rx="12" fill="#172b4d"/>
+<rect x="325" y="285" width="160" height="100" rx="12" fill="#e9edf2"/>
+<rect x="510" y="285" width="160" height="100" rx="12" fill="#e9edf2"/>
+<text x="450" y="420" text-anchor="middle" font-family="Arial" font-size="20" fill="#667085">EVIDENCIA ACADÉMICA</text>
+</svg>

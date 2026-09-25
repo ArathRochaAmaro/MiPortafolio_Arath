@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#172b4d"/><stop offset="1" stop-color="#314b70"/></linearGradient></defs>
+<rect width="1200" height="700" fill="url(#bg)"/>
+<circle cx="980" cy="160" r="240" fill="none" stroke="#d7b57b" stroke-opacity=".22" stroke-width="2"/>
+<circle cx="980" cy="160" r="170" fill="none" stroke="#d7b57b" stroke-opacity=".16" stroke-width="2"/>
+<text x="90" y="220" font-family="Arial" font-size="34" font-weight="bold" fill="#d7b57b">PORTAFOLIO PERSONAL</text>
+<text x="90" y="285" font-family="Arial" font-size="62" font-weight="bold" fill="white">Mi perfil profesional</text>
+<text x="90" y="345" font-family="Arial" font-size="26" fill="#d6deea">Tecnología · Formación · Proyectos</text>
+<rect x="90" y="410" width="190" height="54" rx="8" fill="#b48a4c"/>
+<text x="185" y="445" text-anchor="middle" font-family="Arial" font-size="19" font-weight="bold" fill="white">MI PORTAFOLIO</text>
+</svg>
